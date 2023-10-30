@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @odohigreat
-- 👀 I’m interested in software engineering with Go
-- 🌱 I’m currently learning Go
+- 👀 I’m interested in software engineering with Go, react and JavaScript
+- 🌱 #frontend
 - 💞️ I’m looking to collaborate on Go projects
 <!-- 📫 How to reach me --->
 

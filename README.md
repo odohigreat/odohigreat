@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @odohigreat
+- 👋 Hey, I’m @odohigreat
 - 👀 I’m interested in software engineering with Go, react and JavaScript
 - 🌱 #frontend
-- 💞️ I’m looking to collaborate on Go projects
+- 💞️ I’m looking to collaborate on React and Go projects
 <!-- 📫 How to reach me --->
 
 <!---
